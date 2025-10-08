@@ -1,3 +1,5 @@
+![Programmer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNqaWx2ZGZlcWEyNG1oamM0MDBzODA1aDBjcmhsYmc4dGdmMnB2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)
+
 - 👋 Hi, I’m Ainsteen Varghese
 - 👀 I’m interested in Artificial intelligence and machine learning.
 - 🌱 I’m currently learning Python programming language
