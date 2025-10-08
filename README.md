@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNqaWx2ZGZlcWEyNG1oamM0MDBzODA1aDBjcmhsYmc4dGdmMnB2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/66M6ZwJkTLYikvhrqZ/giphy.gif" width="250" />
 </p>
+<p align="center">
+  <img src="https://your-gradient-banner-url.com/banner.png" alt="gradient banner" width="100%" />
+</p>
 
 # 👨‍💻 Ainsteen Varghese — Android Developer
 
