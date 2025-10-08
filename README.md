@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ainsteen Varghese
   <p align="center">
-  <img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNqaWx2ZGZlcWEyNG1oamM0MDBzODA1aDBjcmhsYmc4dGdmMnB2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)" width="300">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNqaWx2ZGZlcWEyNG1oamM0MDBzODA1aDBjcmhsYmc4dGdmMnB2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)" width="300">
 </p>
 - 👀 I’m interested in Artificial intelligence and machine learning.
 - 🌱 I’m currently learning Python programming language
